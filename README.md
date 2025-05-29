@@ -4,6 +4,8 @@ Caso não consiga se conectar via ssh por problemas de rede
 utilize o ssh over https
 [Using SSH over the HTTPS  port](https://docs.github.com/en/authentication/troubleshooting-ssh/using-ssh-over-the-https-port)
 
+[Issue Unable to use github ssh](https://github.com/orgs/community/discussions/54558)
+
 ## Qual a diferença entre SSH e HTTP no GitHub:
 
 A diferença entre o protocolo **HTTP** e o **SSH** é que o **HTTP** é um protocolo de transferência de hipertexto utilizado para acessar a internet e transferir arquivos. Já o **SSH** é um protocolo de rede seguro utilizado para acessar e gerenciar servidores remotos.
